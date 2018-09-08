@@ -304,3 +304,14 @@ footer p {
   color: #424343;
   margin-top: 3rem;
 }
+
+h2.main-slogan {
+  margin-bottom: 50px;
+}
+.tasks-btn {
+  margin-top: 40px;
+}
+
+.plan-description p {
+  font-weight: 800;
+}
